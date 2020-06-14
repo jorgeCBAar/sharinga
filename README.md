@@ -1,0 +1,2 @@
+# sharinga
+inteligencia compartida
